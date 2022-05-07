@@ -2,7 +2,7 @@
 I am an master's student in Computer Science from Korea <img src = "https://cdn-icons-png.flaticon.com/512/2151/2151415.png" width="18"/>, currently living in LA, USA <img src = "https://cdn-icons-png.flaticon.com/512/3909/3909383.png" width="13"/>.
 
 [![Linkedin Badge](https://img.shields.io/badge/-joohan_lee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-joohan-lee/)](https://www.linkedin.com/in/lucas-joohan-lee/)
-[![Medium Badge](https://img.shields.io/badge/-@joohan_lee-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@joohan224)](https://medium.com/@joohan224)
+[![Medium Badge](https://img.shields.io/badge/-@joohan224-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@joohan224)](https://medium.com/@joohan224)
 
 <!--
 **joohan-lee/joohan-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
