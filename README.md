@@ -1,7 +1,7 @@
 # Hey, Nice to see you! I'm Joohan 👋
 I am an master's student in Computer Science from Korea <img src = "https://cdn-icons-png.flaticon.com/512/2151/2151415.png" width="18"/>, currently living in LA, USA <img src = "https://cdn-icons-png.flaticon.com/512/3909/3909383.png" width="13"/>.
 
-<a href="https://www.linkedin.com/in/lucas-joohan-lee" target="_blank"> <img alt="linkedin" src ="https://img.shields.io/badge/linkedin-joohan--lee-blue" width = "20"/>
+<a href="https://www.linkedin.com/in/lucas-joohan-lee" target="_blank"> <img alt="linkedin" src ="https://img.shields.io/badge/linkedin-joohan--lee-blue"/></a>
 
 <!--
 **joohan-lee/joohan-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
