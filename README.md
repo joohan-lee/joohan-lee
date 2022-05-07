@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hey, Nice to see you! I'm Joohan 👋
+I am an master's student in Computer Science at USC from Korea <img src="https://cdn-icons-png.flaticon.com/512/2151/2151415.png" width="13/>, currently living in LA, USA <img src = "https://cdn-icons-png.flaticon.com/512/3909/3909383.png">.
 <!--
 **joohan-lee/joohan-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
