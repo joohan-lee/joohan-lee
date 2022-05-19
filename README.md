@@ -4,8 +4,10 @@ I am an master's student in Computer Science from Korea <img src = "https://cdn-
 [![Linkedin Badge](https://img.shields.io/badge/-joohan_lee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-joohan-lee/)](https://www.linkedin.com/in/lucas-joohan-lee/)
 [![Medium Badge](https://img.shields.io/badge/-@joohan224-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@joohan224)](https://medium.com/@joohan224)
 
+
+
 <!--![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)-->
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/joohan-lee&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/joohan-lee&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)](https://github.com/joohan-lee)
 
 
 
